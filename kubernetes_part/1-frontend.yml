@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: eslamadel2/front:latest
+        image: f1
         ports:
         - containerPort: 3000
         # env:
